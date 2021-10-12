@@ -1,0 +1,8 @@
+{
+  "name": "web-storage",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:JoaquinGiacusa/web-storage.git",
+  "author": "Joaquin <joaquingiacusa.dev@gmail.com>",
+  "license": "MIT"
+}
