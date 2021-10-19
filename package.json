@@ -4,5 +4,13 @@
   "main": "index.js",
   "repository": "git@github.com:JoaquinGiacusa/web-storage.git",
   "author": "Joaquin <joaquingiacusa.dev@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "source": "src/index.html",
+  "devDependencies": {
+    "parcel": "^2.0.0-rc.0"
+  },
+  "scripts": {
+    "dev": "parcel",
+    "build": "parcel build"
+  }
 }
